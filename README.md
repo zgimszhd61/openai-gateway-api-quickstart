@@ -29,5 +29,5 @@ client = OpenAI(
 )
 ```
 
-### 如何拓展出其他接口
+### 如何拓展其他接口
  - 参考官方文档规范，先跑通mock数据：https://platform.openai.com/docs/api-reference/chat/create
